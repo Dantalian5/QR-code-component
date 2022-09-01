@@ -1,2 +1,7 @@
 # QR-code-component
-QR code component / html+css
+
+## frontendmentor.io: Project #1
+
+## Resources:
+•html
+•css
